@@ -9,6 +9,9 @@
 ## つかい方
 
 1. Tampermonkeyをインストール
-2. このスクリプトを追加
+2. [このスクリプトを追加](./raw/refs/heads/master/AnnoyingImageSwapper.user.js) <!-- リンクをクリックすればjsの生データのページに飛びTanmpermonkeyが自動でインストール用画面を出してくれるっぽい -->
 3. 対象の認証ページを開く
 
+> [!NOTE]
+> ジョークプログラムです
+> 他人のPCに勝手にインストールなどはしないでください
